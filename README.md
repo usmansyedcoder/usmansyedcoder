@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate MERN Web and Flutter Apps developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmansyedcoder&label=Profile%20views&color=0e75b6&style=flat" alt="usmansyedcoder" /> </p>
