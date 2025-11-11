@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-<img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" 
-     width="250" 
-     align="right" 
-     alt="Coding" 
-     style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+<img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif"
+     width="300"
+     alt="Coding"
+     style="border-radius:50%; object-fit:cover; display:block; box-shadow:0 6px 18px rgba(0,0,0,0.25);" />
+
 
 
 I'm a **Full Stack MERN Developer** and **Flutter Mobile Application Developer** from **Pakistan** 🇵🇰.  
