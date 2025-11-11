@@ -6,7 +6,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/04/16/16/18/16-18-04-472_512.gif" width="100%">
+  <img src="https://cdn.pixabay.com/animation/2023/04/16/16/18/16-18-04-472_512.gif" width="50%" aligh="right">
 </div>
 
 ---
