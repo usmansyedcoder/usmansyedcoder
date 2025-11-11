@@ -112,12 +112,14 @@ I'm a passionate **MERN Stack & Flutter Developer** from **Pakistan** 🇵🇰 w
 
 <br/>
 
-## 📌 My Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-### Check out my portfolio for all projects:
+### 🎯 Check out my portfolio for all projects:
 ### [https://portfolio-of-usman.surge.sh](https://portfolio-of-usman.surge.sh)
+
+**💡 Working on exciting new projects - Stay tuned!**
 
 </div>
 
@@ -127,7 +129,7 @@ I'm a passionate **MERN Stack & Flutter Developer** from **Pakistan** 🇵🇰 w
 
 <div align="center">
 
-![Snake animation](https://github.com/usmansyedcoder/usmansyedcoder/blob/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/usmansyedcoder/usmansyedcoder/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -144,5 +146,7 @@ I'm a passionate **MERN Stack & Flutter Developer** from **Pakistan** 🇵🇰 w
 **⭐ Feel free to star my repositories if you find them useful!**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=usmansyedcoder&style=for-the-badge&color=blue)
+
+**Made with ❤️ by Muhammad Usman**
 
 </div>
