@@ -118,7 +118,7 @@ I love building creative, responsive, and high-performing web and mobile applica
 <div align="center">
 
 ### 🎯 Explore my portfolio for all my projects:
-### [https://portfolio-of-usman.surge.sh](https://portfolio-of-usman.surge.sh)
+### [https://usmaniaportfolio.vercel.app](https://usmaniaportfolio.vercel.app)
 
 **💡 Working on some exciting new ideas — stay tuned!**
 
