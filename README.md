@@ -5,15 +5,11 @@
   </a>
 </h1>
 
-<div align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/04/16/16/18/16-18-04-472_512.gif" width="50%" aligh="right">
-</div>
-
 ---
 
 ## 👨‍💻 About Me
 
-<img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="230" align="right" style="border-radius: 50%; margin-left: 20px;" alt="Coding GIF"/>
+<img src="https://cdn.pixabay.com/animation/2023/04/16/16/18/16-18-04-472_512.gif" width="230" align="right" style="border-radius: 50%; margin-left: 20px;" alt="Coding GIF"/>
 
 I'm **Muhammad Usman**, a **Full Stack MERN Developer** and **Flutter Mobile Application Developer** from **Pakistan 🇵🇰**.  
 I enjoy turning complex problems into simple, beautiful, and intuitive solutions — blending creativity with clean code.
